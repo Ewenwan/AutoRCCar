@@ -1,6 +1,9 @@
 ## AutoRCCar
 ### Python3 + OpenCV3
 
+[中文](https://github.com/zhaoying9105/AutoRCCar)
+
+
 See self-driving in action  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=BBwEF6WBUQs
